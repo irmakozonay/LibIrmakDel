@@ -1,0 +1,11 @@
+framework module LibIrmakDel {
+  umbrella header "LibIrmakDel.h"
+
+  export *
+  module * { export * }
+}
+
+module LibIrmakDel.Swift {
+    header "LibIrmakDel-Swift.h"
+    requires objc
+}
