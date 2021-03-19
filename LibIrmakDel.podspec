@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "LibIrmakDel"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "LibIrmakDel description ii."
   spec.description  = <<-DESC
   A test for del irmak ii lib
